@@ -9,4 +9,5 @@ Coverage is from 1/21/2020 to 3/23/2023 when data regarding COVID-19 cases was n
 More information on the dataset and methodologies can be found [here](https://github.com/nytimes/covid-19-data/tree/master/rolling-averages), at the New York Times' repository.
 
 Thanks!
+
 Jake
